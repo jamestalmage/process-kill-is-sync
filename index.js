@@ -30,8 +30,8 @@ ps.on('message', function(message) {
         'child: start',
         'child: delay'
       ]);
-      console.log('exit events do not fire after setTimeout(0)');
-    }, 0);
+      console.log('exit events do not fire after setTimeout(1000)');
+    }, 1000);
   }
 });
 

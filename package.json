@@ -1,0 +1,22 @@
+{
+  "name": "process-kill-is-sync",
+  "version": "1.0.0",
+  "description": "Setup and Run",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jamestalmage/process-kill-is-sync.git"
+  },
+  "author": "James Talmage <james@talmage.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamestalmage/process-kill-is-sync/issues"
+  },
+  "homepage": "https://github.com/jamestalmage/process-kill-is-sync#readme",
+  "dependencies": {
+    "signal-exit": "^2.1.2"
+  }
+}
